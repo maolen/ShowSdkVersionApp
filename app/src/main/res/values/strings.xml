@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowSdkVersionApp</string>
+    <string name="main_api_version">Версия API: %1$d</string>
+</resources>
